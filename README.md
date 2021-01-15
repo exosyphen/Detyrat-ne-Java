@@ -1,5 +1,4 @@
 # Detyrat-ne-Java
 
 
-Pershendetje
-Ketu keni Detyrat ne Java.
+Pershendetje, ketu keni Detyrat ne Java.
